@@ -5,7 +5,7 @@ Data and analysis of pyrosomes from the CCE P2107 Cruise
 ```data analysis.R``` is the cruise map and all box plots found in the technical paper/poster. All ANOVAs (significance tests) and Tukey plots are also in this file.
 
 ## Scientific Poster
-```poster.pdf``` for scientific poster for background information, plots, methods, results, and further direction
+```poster.pdf``` contains my scientific poster with background information, plots, methods, results, and further direction
 
 ## Technical Paper
 ```technical paper.pdf``` for more detailed background information, methods, results, and further direction
